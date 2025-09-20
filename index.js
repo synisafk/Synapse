@@ -1,5 +1,5 @@
 ////////* Needed Stuff *////////
-import './GUI/config'
+import './config'
 
 ////////* Commands *////////
-import './Commands/openGUI'
+import './commands/synapseCommand'

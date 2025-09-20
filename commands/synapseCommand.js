@@ -1,4 +1,4 @@
-import config from "../GUI/config"
+import config from "../config"
 
 export const openGUI = register("command", () => {
     return config.openGUI()
