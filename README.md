@@ -8,7 +8,13 @@
 
 3. **Accessing ChatTriggers:** Launch Minecraft and enter the command `/ct files`
 
-. **Download Synapse:** Download the zip file from releases
+4. **Download Synapse:** Download the zip file from releases then unzip it and drag the unzipped file into modules
 
-5. **Finishing:** Now just Restart your game
+5. **Finishing:** In-game enter the command `/ct load`
+</details>
+
+<details>
+    <summary>Features</summary>
+
+    uhh soon
 </details>
