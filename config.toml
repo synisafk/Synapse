@@ -1,0 +1,53 @@
+
+[general]
+
+	[general.chat_filters]
+		hide_non-rank_invites = false
+		uwuaddons_hider = false
+		hide_useless_messages = false
+
+	[general.autopet_rule_title]
+		show_autopet_rule_title = false
+
+[dungeons]
+
+	[dungeons.puzzles]
+		quiz_timer = false
+
+	[dungeons.crypt_reminder]
+		trigger_time = 60
+		crypt_reminder = false
+		missing_crypts_title = false
+		announce_crypts = false
+
+	[dungeons.m3_features]
+		fire_freeze_notification = false
+
+	[dungeons.leaping]
+		leap_message_format = "Leaped to {player}!"
+		leap_announce = false
+		player_hide_duration = 3
+		hide_players_after_leap = false
+		hide_leap_messages = 0
+
+[disclaimer]
+	_ = false
+
+["f7/m7"]
+
+	["f7/m7".core]
+		announce_core_times_to_party = false
+		core_times = false
+		show_core_times_in_chat = false
+
+	["f7/m7".general]
+		toggle_positional_titles = false
+		melody_warning = false
+		mask_reminder = false
+		mask_timer = false
+		toggle_positional_messages = false
+
+	["f7/m7".leaping]
+		leap_notifier = false
+		show_title_when_all_leaped = true
+

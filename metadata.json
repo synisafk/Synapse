@@ -1,0 +1,12 @@
+{
+	"name": "&2Synapse",
+	"description": "&eAdd &dwsgsyn&e on &9discord&e for support",
+	"creator": "syn",
+	"version": "1.0.0",
+	"entry": "index.js",
+	"requires": [
+		"Vigilance", 
+		"BloomCore", 
+		"tska"
+	]
+}
